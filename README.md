@@ -8,8 +8,6 @@ This project includes a File Explorer with the following functionalities:
 
 🔍 Search Functionality: Search for files and folders in real-time.
 
-🖱️ Drag and Drop Support: Move files and folders via drag-and-drop.
-
 📂 Nested Folder Structure: Supports hierarchical folder organization.
 
 📝 File Selection: Select and open files.
